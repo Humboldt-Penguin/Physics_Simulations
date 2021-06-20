@@ -33,7 +33,7 @@ TODO:
 
 This is just a set of initial conditions I particularly liked. 
 
-## 4. Rutherford Scattering
+## 3. Rutherford Scattering
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/4.Rutherford-Scattering)
 
