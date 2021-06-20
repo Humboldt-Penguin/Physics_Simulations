@@ -48,11 +48,11 @@ A fun little quote from Rutherford himself:
 
 ## Future Project Ideas
 
-* Augment Project 1 with a randomized asteroid belt (1.1)
-* Model spaghettification phenomena with my [gravity function](https://www.glowscript.org/#/user/ZainKamal/folder/Reference/program/GravityFunction/edit) and vpython springs
-* Account for collisions in Project 3
-* 3D game of life inspired by [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
-* Model a string with vpython springs
+- [ ] Augment Project 1 with a randomized asteroid belt (1.1)
+- [ ] Model spaghettification phenomena with my [gravity function](https://www.glowscript.org/#/user/ZainKamal/folder/Reference/program/GravityFunction/edit) and vpython springs
+- [ ] Account for collisions in Project 3
+- [ ] 3D game of life inspired by [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
+- [ ] Model a string with vpython springs
 
 
 _[GlowScript Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)_
