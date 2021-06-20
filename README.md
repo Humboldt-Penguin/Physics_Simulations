@@ -25,7 +25,7 @@ Controls:
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Randomized-n-Body-Sim)
 
 TODO:
-- [] Account for collisions to prevent "explosion to infinity"
+- [ ] Account for collisions to prevent "explosion to infinity"
 
 ### 2.1. Three Body Problem
 
