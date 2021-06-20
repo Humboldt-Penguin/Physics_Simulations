@@ -42,6 +42,8 @@ TODO:
 A fun little quote from Rutherford himself:
 > It was quite the most incredible event that has ever happened to me in my life. It was almost as incredible as if you fired a 15-inch shell at a piece of tissue paper and it came back and hit you.
 
+---
+
 ## Future Project Ideas
 
 * Augment Project 1 with a randomized asteroid belt (1.1)
