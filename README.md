@@ -20,18 +20,18 @@ Controls:
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.Solar-System(Basic))
 
-## 2. Three Body Problem
-
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.Three-Body-Sim)
-
-This is separate from project 3 because I particularly liked these initial conditions.
-
-## 3. Randomized N-Body Simulation
+## 2. Randomized N-Body Simulation
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Randomized-n-Body-Sim)
 
 TODO:
-* Account for collisions to prevent "explosion to infinity"
+- [] Account for collisions to prevent "explosion to infinity"
+
+### 2.1. Three Body Problem
+
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.Three-Body-Sim)
+
+This is just a set of initial conditions I particularly liked. 
 
 ## 4. Rutherford Scattering
 
