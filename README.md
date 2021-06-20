@@ -4,6 +4,8 @@ Zain Kamal -- z.kamal2021@gmail.com
 
 [My GlowScript Repository](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/)
 
+[Video Lessons](https://sites.google.com/view/space-science-with-spice)
+
 
 Controls:
 * Shift + left click + drag ⟶ Pan
