@@ -35,8 +35,9 @@ massmax = 5
 velmin = -3
 velmax = 3
 
+numbodies = input("Number of bodies to simulate (recommended 4)")
 
-for i in range(4):
+for i in range(numbodies):
     
     m = massmin + random()*(massmax-massmin)
     
