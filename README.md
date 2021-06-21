@@ -35,7 +35,7 @@ This is just a set of initial conditions I particularly liked.
 
 ## 3. Rutherford Scattering
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/4.Rutherford-Scattering)
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Rutherford-Scattering)
 
 > The Geiger–Marsden experiments (also called the Rutherford gold foil experiment) were a landmark series of experiments by which scientists learned that every atom has a nucleus where all of its positive charge and most of its mass is concentrated. They deduced this after measuring how an alpha particle beam is scattered when it strikes a thin metal foil. ([Source](https://en.wikipedia.org/wiki/Geiger-Marsden_experiments))
 
