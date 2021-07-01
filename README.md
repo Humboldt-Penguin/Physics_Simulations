@@ -44,6 +44,12 @@ This is just a set of initial conditions I particularly liked.
 A fun little quote from Rutherford himself:
 > It was quite the most incredible event that has ever happened to me in my life. It was almost as incredible as if you fired a 15-inch shell at a piece of tissue paper and it came back and hit you.
 
+## 4. Double Pendulum (with Lagrangians)
+
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/4.Double-Pendulum-Lagrangian)
+
+Link to LaTeX technical notes (google drive PDF) soon to come.
+
 ---
 
 ## Future Project Ideas
