@@ -1,7 +1,9 @@
 # VPython-Projects
 
 Zain Kamal
+
 z.kamal2021@gmail.com
+
 zk73@njit.edu
 
 [VPython](https://www.glowscript.org/docs/VPythonDocs/index.html) is a library that uses a 3D graphics module called Visual to display 3D objects. GlowScript is a browser python IDE that comes with VPython and Matplotlib.
