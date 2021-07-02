@@ -1,39 +1,51 @@
 # VPython-Projects
 
-Zain Kamal -- z.kamal2021@gmail.com
+Zain Kamal
+z.kamal2021@gmail.com
+zk73@njit.edu
+
+[VPython](https://www.glowscript.org/docs/VPythonDocs/index.html) is a library that uses a 3D graphics module called Visual to display 3D objects. GlowScript is a browser python IDE that comes with VPython and Matplotlib.
 
 [My GlowScript Repository](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/)
 
 [Video Lessons](https://sites.google.com/view/space-science-with-spice)
 
+Controls for GlowScript: 
+* Pan ⟶ Shift + left click + drag 
+* Rotate ⟶ Right click + drag
+* Zoom ⟶ Scroll wheel
+* Resize ⟶ click + drag at bottom right of display window
+* View code ⟶ "Edit this Program" at top left
 
-Controls:
-* Shift + left click + drag ⟶ Pan
-* Right click + drag ⟶ Rotate
-* Scroll wheel ⟶ Zoom
+---
 
-## 0. Bounce
+## 1. Basic Systems
+
+### 1.1. Bouncing Ball
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/0.Bounce)
 
-## 1. Basic Solar System
+### 1.2. Double Pendulum (with Lagrangian Mechanics)
+
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/4.Double-Pendulum-Lagrangian)
+
+Link to LaTeX technical notes (google drive PDF) soon to come. LaTeX should also be uploaded to GitHub?
+
+## 2. Gravitation
+
+### 2.1. Basic Solar System
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.Solar-System(Basic))
 
-## 2. Randomized N-Body Simulation
+### 2.2. N-Body Simulations
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Randomized-n-Body-Sim)
+[Link to run (randomized version)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Randomized-n-Body-Sim)
 
-TODO:
-- [ ] Account for collisions to prevent "explosion to infinity"
+[Link to run (initial conditions I particularly like)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.Three-Body-Sim)
 
-### 2.1. Three Body Problem
+## 3. Electricity and Magnetism
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.Three-Body-Sim)
-
-This is just a set of initial conditions I particularly liked. 
-
-## 3. Rutherford Scattering
+### 3.1. Rutherford Scattering
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Rutherford-Scattering)
 
@@ -44,21 +56,15 @@ This is just a set of initial conditions I particularly liked.
 A fun little quote from Rutherford himself:
 > It was quite the most incredible event that has ever happened to me in my life. It was almost as incredible as if you fired a 15-inch shell at a piece of tissue paper and it came back and hit you.
 
-## 4. Double Pendulum (with Lagrangians)
-
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/4.Double-Pendulum-Lagrangian)
-
-Link to LaTeX technical notes (google drive PDF) soon to come.
 
 ---
 
 ## Future Project Ideas
 
-- [ ] Augment Project 1 with a randomized asteroid belt (1.1)
+- [ ] Augment Project 2.1. (Basic Solar System) with a randomized asteroid belt
 - [ ] Model spaghettification phenomena with my [gravity function](https://www.glowscript.org/#/user/ZainKamal/folder/Reference/program/GravityFunction/edit) and vpython springs
-- [ ] Account for collisions in Project 3
+- [ ] Account for collisions in Project 2.2. (N-Body Simulations) to prevent infinite gravitational force when bodies are extremely close
 - [ ] 3D game of life inspired by [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
-- [ ] Model a string with vpython springs
+- [ ] Model a piece of rope with vpython springs
 
 
-_[GlowScript Documentation](https://www.glowscript.org/docs/VPythonDocs/index.html)_
