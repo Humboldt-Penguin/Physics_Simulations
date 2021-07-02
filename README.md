@@ -23,11 +23,11 @@ Controls for GlowScript:
 
 ### 1.1. Bouncing Ball
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/0.Bounce)
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.1.Bouncing-Ball)
 
 ### 1.2. Double Pendulum (with Lagrangian Mechanics)
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/4.Double-Pendulum-Lagrangian)
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.2.Double-Pendulum-with-Lagrangians)
 
 [LaTeX document tracing the derivation of the differential equations using Lagrangians](https://drive.google.com/file/d/1s5wsK9UF0OLv7EzbnvkEcsSRYUul4GU7/view?usp=sharing)
 
@@ -35,19 +35,19 @@ Controls for GlowScript:
 
 ### 2.1. Basic Solar System
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.Solar-System(Basic))
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.1.Basic-Solar-System)
 
 ### 2.2. N-Body Simulations
 
-[Link to run (randomized version)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Randomized-n-Body-Sim)
+[Link to run (randomized version)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.1.Randomized-N-Body-Sim)
 
-[Link to run (initial conditions I particularly like)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.Three-Body-Sim)
+[Link to run (initial conditions I particularly like)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.2.Three-Body-Sim)
 
 ## 3. Electricity and Magnetism
 
 ### 3.1. Rutherford Scattering
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.Rutherford-Scattering)
+[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.1.Rutherford-Scattering)
 
 > The Geiger–Marsden experiments (also called the Rutherford gold foil experiment) were a landmark series of experiments by which scientists learned that every atom has a nucleus where all of its positive charge and most of its mass is concentrated. They deduced this after measuring how an alpha particle beam is scattered when it strikes a thin metal foil. ([Source](https://en.wikipedia.org/wiki/Geiger-Marsden_experiments))
 
@@ -66,5 +66,3 @@ A fun little quote from Rutherford himself:
 - [ ] Account for collisions in Project 2.2. (N-Body Simulations) to prevent infinite gravitational force when bodies are extremely close
 - [ ] 3D game of life inspired by [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - [ ] Model a piece of rope with vpython springs
-
-
