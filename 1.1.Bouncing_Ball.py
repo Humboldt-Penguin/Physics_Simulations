@@ -1,6 +1,9 @@
 from vpython import *
 #GlowScript 3.0 VPython
 
+scene.autoscale = True
+canvas(center=vec(50, 0, 0))
+
 scene.autoscale = False
 
 ball = sphere(
