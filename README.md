@@ -29,7 +29,7 @@ Controls for GlowScript:
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/4.Double-Pendulum-Lagrangian)
 
-Link to LaTeX technical notes (google drive PDF) soon to come. LaTeX should also be uploaded to GitHub?
+[LaTeX document tracing the derivation of the differential equations using Lagrangians](https://drive.google.com/file/d/1s5wsK9UF0OLv7EzbnvkEcsSRYUul4GU7/view?usp=sharing)
 
 ## 2. Gravitation
 
