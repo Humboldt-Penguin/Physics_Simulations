@@ -1,10 +1,6 @@
 # VPython-Projects
 
-Zain Kamal
-
-z.kamal2021@gmail.com
-
-zk73@njit.edu
+Zain Kamal | z.kamal2021@gmail.com | zk73@njit.edu
 
 [VPython](https://www.glowscript.org/docs/VPythonDocs/index.html) is a library that uses a 3D graphics module called Visual to display 3D objects. GlowScript is a browser python IDE that comes with VPython and Matplotlib.
 
@@ -31,7 +27,7 @@ Controls for GlowScript:
 
 [Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.2.Double-Pendulum-with-Lagrangians)
 
-* [LaTeX document tracing the derivation of the differential equations using Lagrangians](https://drive.google.com/file/d/1_wVI0pXhXFBpD_LGQajf5SA7iYAqrEKx/view?usp=sharing)
+* [LaTeX document deriving the differential equations using Lagrangians](https://drive.google.com/file/d/1_wVI0pXhXFBpD_LGQajf5SA7iYAqrEKx/view?usp=sharing)
 
 ## 2. Gravitation
 
