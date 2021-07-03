@@ -29,7 +29,7 @@ Controls for GlowScript:
 
 [![double_pendulum](https://i.imgur.com/SAzf8No.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.2.Double-Pendulum-with-Lagrangians "Click to Run 1.2.Double-Pendulum-with-Lagrangians")
 
-* [LaTeX document deriving the differential equations using Lagrangians](https://drive.google.com/file/d/1_wVI0pXhXFBpD_LGQajf5SA7iYAqrEKx/view?usp=sharing)
+* [LaTeX document deriving the differential equations of motion using Lagrangians](https://drive.google.com/file/d/1_wVI0pXhXFBpD_LGQajf5SA7iYAqrEKx/view?usp=sharing)
 
 ## 2. Gravitation
 
@@ -41,7 +41,7 @@ Controls for GlowScript:
 
 [![n body sim](https://i.imgur.com/XZcBKPG.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.1.Randomized-N-Body-Sim "2.2.1.Randomized-N-Body-Sim")
 
-[This version has the initial conditions that led to the picture above](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.2.Three-Body-Sim)
+[This version (2.2.2.) has the initial conditions that led to the picture above](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.2.Three-Body-Sim)
 
 ## 3. Electricity and Magnetism
 
