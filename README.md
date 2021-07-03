@@ -2,6 +2,8 @@
 
 Zain Kamal | z.kamal2021@gmail.com | zk73@njit.edu
 
+Click on the images to run the simulations! GlowScript will open in another tab.
+
 [VPython](https://www.glowscript.org/docs/VPythonDocs/index.html) is a library that uses a 3D graphics module called Visual to display 3D objects. GlowScript is a browser-based Python IDE that comes with VPython and Matplotlib.
 
 [My GlowScript Repository](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/)
@@ -21,11 +23,11 @@ Controls for GlowScript:
 
 ### 1.1. Bouncing Ball
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.1.Bouncing-Ball)
+[![bounce](https://i.imgur.com/c815PVR.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.1.Bouncing-Ball "Click to Run 1.1.Bouncing-Ball")
 
 ### 1.2. Double Pendulum (with Lagrangian Mechanics)
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.2.Double-Pendulum-with-Lagrangians)
+[![double_pendulum](https://i.imgur.com/SAzf8No.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.2.Double-Pendulum-with-Lagrangians "Click to Run 1.2.Double-Pendulum-with-Lagrangians")
 
 * [LaTeX document deriving the differential equations using Lagrangians](https://drive.google.com/file/d/1_wVI0pXhXFBpD_LGQajf5SA7iYAqrEKx/view?usp=sharing)
 
@@ -33,19 +35,19 @@ Controls for GlowScript:
 
 ### 2.1. Basic Solar System
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.1.Basic-Solar-System)
+[![solar_system](https://i.imgur.com/mmuDjYJ.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.1.Basic-Solar-System "Click to Run 2.1.Basic-Solar-System")
 
-### 2.2. N-Body Simulations
+### 2.2.1 Randomized N-Body Simulations
 
-[Link to run (randomized version)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.1.Randomized-N-Body-Sim)
+[![n body sim](https://i.imgur.com/XZcBKPG.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.1.Randomized-N-Body-Sim "2.2.1.Randomized-N-Body-Sim")
 
-[Link to run (initial conditions I particularly like)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.2.Three-Body-Sim)
+[This version has the initial conditions that led to the picture above](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.2.Three-Body-Sim)
 
 ## 3. Electricity and Magnetism
 
 ### 3.1. Rutherford Scattering
 
-[Link to run](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.1.Rutherford-Scattering)
+[![rutherford scattering](https://i.imgur.com/xH63Vw4.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/3.1.Rutherford-Scattering "3.1.Rutherford-Scattering")
 
 > The Geiger–Marsden experiments (also called the Rutherford gold foil experiment) were a landmark series of experiments by which scientists learned that every atom has a nucleus where all of its positive charge and most of its mass is concentrated. They deduced this after measuring how an alpha particle beam is scattered when it strikes a thin metal foil. ([Source](https://en.wikipedia.org/wiki/Geiger-Marsden_experiments))
 
