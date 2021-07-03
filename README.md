@@ -2,7 +2,7 @@
 
 Zain Kamal | z.kamal2021@gmail.com | zk73@njit.edu
 
-Click on the images to run the simulations! GlowScript will open in another tab.
+Click on the images to run the simulations on GlowScript!
 
 [VPython](https://www.glowscript.org/docs/VPythonDocs/index.html) is a library that uses a 3D graphics module called Visual to display 3D objects. GlowScript is a browser-based Python IDE that comes with VPython and Matplotlib.
 
@@ -18,7 +18,6 @@ Controls for GlowScript:
 * View code ⟶ "Edit this Program" at top left
 
 ---
-
 ## 1. Basic Systems
 
 ### 1.1. Bouncing Ball
