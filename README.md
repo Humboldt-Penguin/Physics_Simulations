@@ -1,14 +1,20 @@
-# VPython-Projects
+# Physics Simulations
 
 Zain Kamal | z.kamal2021@gmail.com | zk73@njit.edu
 
-Click on the images to run the simulations on GlowScript!
+Click on the images to run the simulations on GlowScript/Google Colab!
 
-[VPython](https://www.glowscript.org/docs/VPythonDocs/index.html) is a library that uses a 3D graphics module called Visual to display 3D objects. GlowScript is a browser-based Python IDE that comes with VPython and Matplotlib.
+[My Video Lessons](https://sites.google.com/view/space-science-with-spice)
 
-[My GlowScript Repository](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/)
+---
+## 0. Background Information
 
-[Video Lessons](https://sites.google.com/view/space-science-with-spice)
+* [VPython](https://www.glowscript.org/docs/VPythonDocs/index.html) is a library that uses a 3D graphics module called Visual to display 3D objects. GlowScript is a browser-based Python IDE that comes with VPython and Matplotlib.
+  - [My GlowScript Repository](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/)
+* [Colaboratory](https://research.google.com/colaboratory/faq.html), or “Colab” for short, by Google Research is a hosted Jupyter notebook service that provides free access to computing resources, including GPUs. It is especially well suited to machine learning, data analysis and education.
+
+
+
 
 Controls for GlowScript: 
 * Pan ⟶ Shift + left click + drag 
