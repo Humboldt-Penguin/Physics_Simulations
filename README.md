@@ -61,6 +61,11 @@ Controls for GlowScript:
 A fun little quote from Rutherford himself:
 > It was quite the most incredible event that has ever happened to me in my life. It was almost as incredible as if you fired a 15-inch shell at a piece of tissue paper and it came back and hit you.
 
+### 3.2. Magnetic Vector Field
+
+[![biot savart](https://i.imgur.com/JYBiuA7.png)](https://colab.research.google.com/drive/1Khgv889lU17A6rbwUNVpBbcST8nCBcgB?usp=sharing "3.2.Magnetic-Vector-Field")
+
+
 
 ---
 
