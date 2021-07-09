@@ -57,15 +57,12 @@ button(text="Pause", bind=Run)
 
 # Calculate the force vector exerted on b1 by b2
 def f_g(b1, b2):
-    # The force of a body on itself is 0
     if b1.pos == b2.pos:
-        return vec(0, 0, 0)
+        return vec(0, 0, 0) # The force of a body on itself is 0
 
-    # Use 6.67430E-11 for real world values; 1 is more convenient
-    G = 1
-
-    # Vector from b1 to b2
-    r_vec = b2.pos - b1.pos
+    G = 1 # Use 6.67430E-11 for real world values; 1 is more convenient
+    
+    r_vec = b2.pos - b1.pos # Vector from b1 to b2
 
     # Prevent gravitational force becoming absurdly large when bodies pass through each other
     if mag(r_vec) < (b1.radius + b2.radius):
@@ -73,15 +70,8 @@ def f_g(b1, b2):
     else:
         r_mag = mag(r_vec)
 
-    # Equation for magnitude of the force of gravity
-    force_mag = (G * b1.mass * b2.mass) / (r_mag ** 2)
-    # Unit vector from b1 to b2 (same direction, but length 1)
-    r_hat = r_vec / mag(r_vec)
-    # Make the magnitude into a vector pointing towards b2
-    force_vec = force_mag * r_hat
+    return ((G * b1.mass * b2.mass) / (r_mag ** 2)) * hat(r_vec) # Equation for gravity force vector
 
-    # Return the force vector
-    return force_vec
 
 
 ################################################################################
@@ -106,22 +96,20 @@ bodies.append(
 # index 1: dark red planet
 bodies.append(
     simple_sphere(
-        pos=vec(1, 0, 0),  # pos=vec(1, 0, -0.2), is a bit more realistic
+        pos=vec(1, 0, 0), # pos=vec(1, 0, -0.2), is a bit more realistic
         radius=0.1,
         color=vec(0.545, 0, 0),
         mass=1,
         p=vec(0, 30, 0),
         make_trail=True,
-        retain=(
-            trail_length_slider.value / 15
-        ),  # retain= (trail_length_slider.value ** (1/3)),
+        retain= (trail_length_slider.value / 15), # retain= (trail_length_slider.value ** (1/3)),
     )
 )
 
 # index 2: cyan planet
 bodies.append(
     simple_sphere(
-        pos=vec(0, 3, 0.2),  # vector(1,0.7,0.2) very interesting!!!!
+        pos=vec(0, 3, 0.2), # vector(1,0.7,0.2) very interesting!!!!
         radius=0.09,
         color=color.cyan,
         mass=2,
