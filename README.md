@@ -40,7 +40,7 @@ Controls for GlowScript:
 
 ### 2.1. Basic Solar System
 
-[![solar_system](https://i.imgur.com/mmuDjYJ.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.1.Basic-Solar-System "Click to Run 2.1.Basic-Solar-System")
+[![solar_system](https://i.imgur.com/djn84Vb.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.1.Basic-Solar-System "Click to Run 2.1.Basic-Solar-System")
 
 ### 2.2.1 Randomized N-Body Simulations
 
@@ -71,7 +71,6 @@ A fun little quote from Rutherford himself:
 
 ## Future Project Ideas
 
-- [ ] Augment Project 2.1. (Basic Solar System) with a randomized asteroid belt
 - [ ] Model spaghettification phenomena with my [gravity function](https://www.glowscript.org/#/user/ZainKamal/folder/Reference/program/GravityFunction/edit) and vpython springs
 - [ ] Account for collisions in Project 2.2. (N-Body Simulations) to prevent infinite gravitational force when bodies are extremely close
 - [ ] 3D game of life inspired by [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
