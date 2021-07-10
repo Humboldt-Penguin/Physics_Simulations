@@ -46,11 +46,13 @@ Controls for GlowScript:
 
 [![solar_system](https://i.imgur.com/djn84Vb.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.1.Basic-Solar-System "Click to Run 2.1.Basic-Solar-System")
 
-### 2.2.1. Randomized N-Body Simulations
+### 2.2.1. Randomized N-Body Simulations (collisionless)
 
 [![n body sim](https://i.imgur.com/XZcBKPG.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.1.Randomized-N-Body-Sim "2.2.1.Randomized-N-Body-Sim")
 
 [This version (2.2.2.) has the initial conditions that led to the picture above](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.2.Three-Body-Sim)
+
+This simulation can smoothly support up to 100 bodies on my computer, but enabling the trails behind each particle limits it to 4-6 bodies. I leave trails on in spite of this because the resutls look cooler and more patterns are observable. Once I implement collisions, I will probably disable trails.
 
 ### 2.3. Spaghettification
 
