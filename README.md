@@ -36,6 +36,10 @@ Controls for GlowScript:
 
 * [LaTeX document deriving the differential equations of motion using Lagrangians](https://drive.google.com/file/d/1_wVI0pXhXFBpD_LGQajf5SA7iYAqrEKx/view?usp=sharing)
 
+### 1.3. Rolling without Slipping (in a circle)
+
+[![rolling without slipping](https://i.imgur.com/vt6Cqm6.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.3.Rolling-Without-Slipping "Click to Run 1.3.Rolling-Without-Slipping")
+
 ## 2. Gravitation
 
 ### 2.1. Basic Solar System
