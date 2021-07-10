@@ -42,11 +42,15 @@ Controls for GlowScript:
 
 [![solar_system](https://i.imgur.com/djn84Vb.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.1.Basic-Solar-System "Click to Run 2.1.Basic-Solar-System")
 
-### 2.2.1 Randomized N-Body Simulations
+### 2.2.1. Randomized N-Body Simulations
 
 [![n body sim](https://i.imgur.com/XZcBKPG.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.1.Randomized-N-Body-Sim "2.2.1.Randomized-N-Body-Sim")
 
 [This version (2.2.2.) has the initial conditions that led to the picture above](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.2.2.Three-Body-Sim)
+
+### 2.3. Spaghettification
+
+[![spaghettification](https://i.imgur.com/VuFjz83.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/2.3.Spaghettification "2.3.Spaghettification")
 
 ## 3. Electricity and Magnetism
 
@@ -71,7 +75,6 @@ A fun little quote from Rutherford himself:
 
 ## Future Project Ideas
 
-- [ ] Model spaghettification phenomena with my [gravity function](https://www.glowscript.org/#/user/ZainKamal/folder/Reference/program/GravityFunction/edit) and vpython springs
 - [ ] Account for collisions in Project 2.2. (N-Body Simulations) to prevent infinite gravitational force when bodies are extremely close
 - [ ] 3D game of life inspired by [this video](https://www.youtube.com/watch?v=dQJ5aEsP6Fs)
 - [ ] Model a piece of rope with vpython springs
