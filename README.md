@@ -32,9 +32,9 @@ Controls for GlowScript:
 
 ### 1.2. Double Pendulum (with Lagrangian Mechanics)
 
-[![double_pendulum](https://i.imgur.com/SAzf8No.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.2.Double-Pendulum-with-Lagrangians "Click to Run 1.2.Double-Pendulum-with-Lagrangians")
-
 * [LaTeX document deriving the differential equations of motion using Lagrangians](https://drive.google.com/file/d/1_wVI0pXhXFBpD_LGQajf5SA7iYAqrEKx/view?usp=sharing)
+
+[![double_pendulum](https://i.imgur.com/SAzf8No.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.2.Double-Pendulum-with-Lagrangians "Click to Run 1.2.Double-Pendulum-with-Lagrangians")
 
 ### 1.3. Rolling without Slipping (in a circle)
 
