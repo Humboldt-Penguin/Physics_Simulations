@@ -40,6 +40,11 @@ Controls for GlowScript:
 
 [![rolling without slipping](https://i.imgur.com/vt6Cqm6.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.3.Rolling-Without-Slipping "Click to Run 1.3.Rolling-Without-Slipping")
 
+### 1.4. 3D Surface Plotter
+
+[![3D surface plotter](https://i.imgur.com/E7WBVpo.png)](https://www.glowscript.org/#/user/ZainKamal/folder/MyPrograms/program/1.4.Surface-Plot-3D "Click to Run 1.4.Surface-Plot-3D")
+
+
 ## 2. Gravitation
 
 ### 2.1. Basic Solar System
