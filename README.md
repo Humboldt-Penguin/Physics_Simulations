@@ -4,7 +4,7 @@ Zain Kamal | z.kamal2021@gmail.com | zk73@njit.edu
 
 Click on the images to run the simulations on GlowScript/Google Colab!
 
-See [project 3.2 ("Magnetic Vector Field")](https://github.com/Humboldt-Penguin/Physics_Simulations#32-magnetic-vector-field) at the very bottom for the best example of my physics and computer science knowledge.
+**Too long didn't read**: See [project 3.2 ("Magnetic Vector Field")](https://github.com/Humboldt-Penguin/Physics_Simulations#32-magnetic-vector-field) at the very bottom for the best example of my physics and computer science knowledge.
 
 [My Video Lessons](https://sites.google.com/view/space-science-with-spice)
 
